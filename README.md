@@ -1,2 +1,6 @@
-# docker-example
-Demonstrates how to pack a nodejs app into a docker container
+# 도커 연습
+- 컨테이너 hello world 실행
+- 컨테이너 파일 시스템 다루기
+- 도커 이미지 만들기
+- 도커 허브 등 레지스트리에 이미지 공유
+- 도커 컴포즈를 이용한 여러 환경 구성
